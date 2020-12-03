@@ -1,0 +1,13 @@
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\bin\Debug\netcoreapp3.1\boucles.exe
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\bin\Debug\netcoreapp3.1\boucles.deps.json
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\bin\Debug\netcoreapp3.1\boucles.runtimeconfig.json
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\bin\Debug\netcoreapp3.1\boucles.runtimeconfig.dev.json
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\bin\Debug\netcoreapp3.1\boucles.dll
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\bin\Debug\netcoreapp3.1\boucles.pdb
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\obj\Debug\netcoreapp3.1\boucles.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\obj\Debug\netcoreapp3.1\boucles.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\obj\Debug\netcoreapp3.1\boucles.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\obj\Debug\netcoreapp3.1\boucles.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\obj\Debug\netcoreapp3.1\boucles.dll
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\obj\Debug\netcoreapp3.1\boucles.pdb
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\boucles\obj\Debug\netcoreapp3.1\boucles.genruntimeconfig.cache

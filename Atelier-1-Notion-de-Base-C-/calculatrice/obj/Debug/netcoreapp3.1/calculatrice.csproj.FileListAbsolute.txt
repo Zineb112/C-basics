@@ -1,0 +1,13 @@
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.exe
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.deps.json
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.runtimeconfig.json
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.runtimeconfig.dev.json
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.dll
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.pdb
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.dll
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.pdb
+C:\Users\Youcode\Desktop\C-basics\Atelier-1-Notion-de-Base-C-\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.genruntimeconfig.cache
